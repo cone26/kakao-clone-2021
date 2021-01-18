@@ -1,10 +1,10 @@
 @import "reset.css";
 @import "variables.css";
-@import "screen/1login.css";
+@import "screen/login.css";
 @import "components/screenHeader.css";
 @import "components/navBar.css";
 
-@import "screen/2friend.css";
+@import "screen/friend.css";
 @import "screen/chat.css";
 @import "components/user-component.css";
 @import "components/badge.css";
